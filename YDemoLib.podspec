@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "YDemoLib"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of YDemoLib."
+  spec.summary      = "YDemoLib is a library for Game developer. help developers to quickly access account functions: Facebook, Twitter, Apple."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,8 +25,16 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-                      Test
-                   DESC
+                      Test one Function for YDemoLib
+                      1.Assist game developers to quickly access account functions: Facebook, Twitter, Apple
+                      2.Provide Apple in-app purchase function
+                      3.Provide customer service function
+                      4.Provide Google firebase function
+                      5.Provide Google Play Billing function
+                      6.Provide Google AdMob function
+                      7.Provide Google Analytics function
+                      8.Provide Google Firebase function
+                    DESC
 
   spec.homepage     = "https://github.com/Monkey0803"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -39,11 +47,12 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = "MIT (example)"
-  # spec.license      = { :type => "MIT", :file => "<<-LICENSE
-                       Copyright 2012
-                       Permission is granted to...
-                     LICENSE" }
+  # spec.license      = "MIT (example)"
+  spec.license = { :type => 'MIT', :text => <<-LICENSE
+                   Copyright 2012
+                   Permission is granted to...
+                 LICENSE
+               }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -86,7 +95,8 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/Monkey0803/YDemoLib.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = "Lib/**/*.framework"
-
+  spec.static_framework = true
+  spec.requires_arc = true
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
