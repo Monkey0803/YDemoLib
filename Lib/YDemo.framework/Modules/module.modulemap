@@ -1,0 +1,6 @@
+framework module YDemo {
+  umbrella header "YDemo.h"
+  export *
+
+  module * { export * }
+}
