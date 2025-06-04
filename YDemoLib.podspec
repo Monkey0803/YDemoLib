@@ -17,13 +17,8 @@ Pod::Spec.new do |spec|
 
   spec.name         = "YDemoLib"
   spec.version      = "0.0.1"
-  spec.summary      = "YDemoLib is a library for Game developer. help developers to quickly access account functions: Facebook, Twitter, Apple."
+  spec.summary      = "YDemoLib is a library for Game developer. help developers to quickly access account functions: Facebook."
 
-  # This description is used to generate tags and improve search results.
-  #   * Think: What does it do? Why did you write it? What is the focus?
-  #   * Try to keep it short, snappy and to the point.
-  #   * Write the description between the DESC delimiters below.
-  #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
                       Test one Function for YDemoLib
                       1.Assist game developers to quickly access account functions: Facebook, Twitter, Apple
@@ -47,10 +42,11 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  # spec.license      = "MIT (example)"
+  # spec.license      = "MIT"
+  # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   spec.license = { :type => 'MIT', :text => <<-LICENSE
                    Copyright 2012
-                   Permission is granted to...
+                    Permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software.
                  LICENSE
                }
 
@@ -77,7 +73,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.platform     = :ios
-    spec.platform     = :ios, "13.0"
+  spec.platform     = :ios, "13.0"
 
   #  When using multiple platforms
   # spec.ios.deployment_target = "5.0"
@@ -96,7 +92,7 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/Monkey0803/YDemoLib.git", :tag => "#{spec.version}" }
   spec.vendored_frameworks = "Lib/**/*.framework"
   spec.static_framework = true
-  spec.requires_arc = true
+  
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -145,8 +141,8 @@ Pod::Spec.new do |spec|
   #  where they will only apply to your library. If you depend on other Podspecs
   #  you can include multiple dependencies to ensure it works.
 
-  # spec.requires_arc = true
-
+  spec.requires_arc = true
+  spec.xcconfig = { "OTHER_LDFLAGS" => ["-ObjC"] }
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
 
