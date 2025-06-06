@@ -1,0 +1,6 @@
+framework module YoSDKFBKit {
+  umbrella header "YoSDKFBKit.h"
+  export *
+
+  module * { export * }
+}

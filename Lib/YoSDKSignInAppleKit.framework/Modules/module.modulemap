@@ -1,0 +1,6 @@
+framework module YoSDKSignInAppleKit {
+  umbrella header "YoSDKSignInAppleKit.h"
+  export *
+
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module YoSDKAdjustKit {
+  umbrella header "YoSDKAdjustKit.h"
+  export *
+
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module YoSDKAiHelpKit {
+  umbrella header "YoSDKAiHelpKit.h"
+  export *
+
+  module * { export * }
+}

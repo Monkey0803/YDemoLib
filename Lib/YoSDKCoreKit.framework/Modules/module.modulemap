@@ -1,0 +1,6 @@
+framework module YoSDKCoreKit {
+  umbrella header "YoSDKCoreKit.h"
+  export *
+
+  module * { export * }
+}
