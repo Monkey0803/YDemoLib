@@ -128,6 +128,16 @@ FOUNDATION_EXPORT NSString * ResourcePathInBundle(NSString *resourceName);
 
     /// 获取货币符号
 + (NSString *)getCurrencySymbol;
+
+    /// 依据dateFormat把date转换为字符串
+    /// - Parameters:
+    ///   - date: 日期
+    ///   - dateFormat: 日期格式
++ (NSString *)date:(NSDate *)date
+            format:(NSString *)dateFormat;
+
+    /// 在日服的情况下 dateFormat
++ (NSString *)dateFormatInJP;
 @end
 
 NS_ASSUME_NONNULL_END

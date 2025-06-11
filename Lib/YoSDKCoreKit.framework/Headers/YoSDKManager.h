@@ -23,12 +23,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 typedef void(^YoSDKCallBack)(NSString *result);
 @interface YoSDKManager : NSObject
-/**
- 界面模式 FAQ:faq 机器人客服:robot
- */
-@property (nonatomic, copy) NSString *aihelpModel;
-/**aihelp 是否可用 1 可 ；0 不可*/
-@property (nonatomic, assign) NSInteger aihelpEnable;
+
 @property (nonatomic, copy) NSString *baseURL;
 @property (nonatomic, copy) NSString *baseURL_LB;
 @property (nonatomic, copy) NSString *basePushURL;

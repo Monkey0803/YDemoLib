@@ -64,6 +64,51 @@ NS_ASSUME_NONNULL_BEGIN
 + (BOOL)enableAgreement;
 ///充值限额是否开启
 + (BOOL)rechargeLimitEnable;
+
+    /// aihelp是否可用
++ (BOOL)aiHelpEnable;
+
+    /// 1 = AIHelpConversationIntentBotSupport
+    /// 2 = AIHelpConversationIntentHumanSupport
+    /// 默认值 2
+    /// 界面模式 FAQ:faq 机器人客服:robot
++ (NSInteger)aihelpModel;
+
+    /// 服务器下发的自定义分享信息
++ (NSDictionary *)customShare;
+
+    /// 删除账号功能是否可用
++ (BOOL)destoryUserEnable;
+
+    /// 通行证前缀
++ (NSString *)yostarPrefix;
+
+    /// MARK: --- Ali 参数
+    /// 自动拨测是否可用
++ (BOOL)aliAutoEnable;
+    /// 手动拨测是否可用
++ (BOOL)aliManualEnable;
+    /// 是否开启阿里云日志
++ (BOOL)aliLogEnable;
+
++ (NSArray *)aliTCP;
++ (NSArray *)aliHTTP;
++ (NSArray *)aliMTR;
++ (NSArray *)aliDNS;
++ (NSArray *)aliPING;
+
+    
++ (NSString *)aliAccessKeyId;
++ (NSString *)aliAccessKeySecret;
+
++ (NSString *)aliNetworkEndpoint;
++ (NSString *)aliNetworkProject;
++ (NSString *)aliNetworkSecretKey;
+
++ (NSString *)aliLogEndpoint;
++ (NSString *)aliLogStore;
++ (NSString *)aliLogProject;
++ (NSString *)aliInternetURL;
 @end
 
 NS_ASSUME_NONNULL_END

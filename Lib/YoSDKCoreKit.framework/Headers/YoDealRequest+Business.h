@@ -25,6 +25,16 @@ NS_ASSUME_NONNULL_BEGIN
 ///日服 生成引继码
 - (void)yoTranscodeCreateSuccess:(void (^)(NSString *))success
                     reqFailBlock:(YoResultBlock)fail;
+
+    /// 设置生日
+    /// @param birth 生日
+    /// @param confirmed 是否确认设置生日(如果为false则会返回具体金额)
+    /// @param success 成功回调
+    /// @param fail 失败回调
+- (void)yoSetBirth:(NSString *)birth
+         confirmed:(BOOL)confirmed
+      successBlock:(YoResultBlock)success
+         failBlock:(YoResultBlock)fail;
 ///日服 设置生日
 /// 设置通行证昵称
 /// @param param

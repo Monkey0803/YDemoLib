@@ -545,24 +545,15 @@ UIKIT_EXTERN NSString *APPCurrentUsedLanguage;
 UIKIT_EXTERN NSString *APPCurrentAgreementLanguage;
 ///SDK 的版本号
 UIKIT_EXTERN NSString * YoSDKVersion;
-UIKIT_EXTERN NSInteger YoDESTROY_USER_DAYS;
-///用户中心删除按钮是否可用
-UIKIT_EXTERN BOOL YoDESTROY_USER_ENABLE;
+
 ///在初始化接口中，需要客户端新增入参游戏服地址，支持检测游戏延迟情况
 UIKIT_EXTERN NSString * GameServerUrl;
-///服务器下发的自定义分享信息
-UIKIT_EXTERN NSDictionary * YostarCustomShare;
+
 ///firebase 是否可用
 UIKIT_EXTERN BOOL ISFIREBASE;
 
-///通行证昵称的正则
-UIKIT_EXTERN NSString *NicknameReg;
-///通行证前缀
-UIKIT_EXTERN NSString *YOSTAR_PREFIX;
 ///通行证title
 UIKIT_EXTERN NSString *YOSTAR_POPUP_TEXT;
-///通行证昵称修改弹窗是否弹出
-UIKIT_EXTERN BOOL YOSTAR_NickName_Pop_enable;
 ///在以后中心是否可以编辑通行证昵称
 UIKIT_EXTERN BOOL Can_Edit_Yostar_NickName_In_UserCenter;
 ///登录账号是否是测试账号
