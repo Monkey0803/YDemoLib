@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "YDemoLib"
-  spec.version      = "0.0.7-beta14"
+  spec.version      = "0.0.7-beta15"
   spec.summary      = "YDemoLib is a library for Game developer. help developers to quickly access account functions: Facebook."
 
   spec.description  = <<-DESC
