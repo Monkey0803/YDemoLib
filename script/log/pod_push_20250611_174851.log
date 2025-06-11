@@ -148,3 +148,249 @@
 2025-06-11 17:49:19 - INFO - 正在暂存所有更改...
 2025-06-11 17:49:19 - INFO - 正在暂存所有更改...
 2025-06-11 17:49:19 - INFO - 正在暂存所有更改...
+2025-06-11 17:49:19 - INFO - 正在提交更改...
+2025-06-11 17:49:19 - INFO - 正在提交更改...
+2025-06-11 17:49:19 - INFO - 正在提交更改...
+2025-06-11 17:49:19 - INFO - 正在提交更改...
+2025-06-11 17:49:19 - INFO - 正在提交更改...
+2025-06-11 17:49:19 - INFO - 正在提交更改...
+2025-06-11 17:49:19 - INFO - 提交成功: [main 482f002] SDK更新 0.0.7-beta13
+ 6 files changed, 194 insertions(+), 1 deletion(-)
+ create mode 100644 log/pod_push_20250611_173848.log
+ create mode 100644 log/pod_push_20250611_174039.log
+ create mode 100644 script/log/pod_push_20250611_174845.log
+ create mode 100644 script/log/pod_push_20250611_174851.log
+2025-06-11 17:49:19 - INFO - 提交成功: [main 482f002] SDK更新 0.0.7-beta13
+ 6 files changed, 194 insertions(+), 1 deletion(-)
+ create mode 100644 log/pod_push_20250611_173848.log
+ create mode 100644 log/pod_push_20250611_174039.log
+ create mode 100644 script/log/pod_push_20250611_174845.log
+ create mode 100644 script/log/pod_push_20250611_174851.log
+2025-06-11 17:49:19 - INFO - 提交成功: [main 482f002] SDK更新 0.0.7-beta13
+ 6 files changed, 194 insertions(+), 1 deletion(-)
+ create mode 100644 log/pod_push_20250611_173848.log
+ create mode 100644 log/pod_push_20250611_174039.log
+ create mode 100644 script/log/pod_push_20250611_174845.log
+ create mode 100644 script/log/pod_push_20250611_174851.log
+2025-06-11 17:49:19 - INFO - 提交成功: [main 482f002] SDK更新 0.0.7-beta13
+ 6 files changed, 194 insertions(+), 1 deletion(-)
+ create mode 100644 log/pod_push_20250611_173848.log
+ create mode 100644 log/pod_push_20250611_174039.log
+ create mode 100644 script/log/pod_push_20250611_174845.log
+ create mode 100644 script/log/pod_push_20250611_174851.log
+2025-06-11 17:49:19 - INFO - 提交成功: [main 482f002] SDK更新 0.0.7-beta13
+ 6 files changed, 194 insertions(+), 1 deletion(-)
+ create mode 100644 log/pod_push_20250611_173848.log
+ create mode 100644 log/pod_push_20250611_174039.log
+ create mode 100644 script/log/pod_push_20250611_174845.log
+ create mode 100644 script/log/pod_push_20250611_174851.log
+2025-06-11 17:49:19 - INFO - 提交成功: [main 482f002] SDK更新 0.0.7-beta13
+ 6 files changed, 194 insertions(+), 1 deletion(-)
+ create mode 100644 log/pod_push_20250611_173848.log
+ create mode 100644 log/pod_push_20250611_174039.log
+ create mode 100644 script/log/pod_push_20250611_174845.log
+ create mode 100644 script/log/pod_push_20250611_174851.log
+2025-06-11 17:49:19 - INFO - 正在推送更改到远程仓库 'origin'...
+2025-06-11 17:49:19 - INFO - 正在推送更改到远程仓库 'origin'...
+2025-06-11 17:49:19 - INFO - 正在推送更改到远程仓库 'origin'...
+2025-06-11 17:49:19 - INFO - 正在推送更改到远程仓库 'origin'...
+2025-06-11 17:49:19 - INFO - 正在推送更改到远程仓库 'origin'...
+2025-06-11 17:49:19 - INFO - 正在推送更改到远程仓库 'origin'...
+2025-06-11 17:49:21 - INFO - 推送成功: 
+2025-06-11 17:49:21 - INFO - 推送成功: 
+2025-06-11 17:49:21 - INFO - 推送成功: 
+2025-06-11 17:49:21 - INFO - 推送成功: 
+2025-06-11 17:49:21 - INFO - 推送成功: 
+2025-06-11 17:49:21 - INFO - 推送成功: 
+2025-06-11 17:49:21 - INFO - Git 提交成功，开始设置 Git 标签...
+2025-06-11 17:49:21 - INFO - Git 提交成功，开始设置 Git 标签...
+2025-06-11 17:49:21 - INFO - Git 提交成功，开始设置 Git 标签...
+2025-06-11 17:49:21 - INFO - Git 提交成功，开始设置 Git 标签...
+2025-06-11 17:49:21 - INFO - Git 提交成功，开始设置 Git 标签...
+2025-06-11 17:49:21 - INFO - Git 提交成功，开始设置 Git 标签...
+2025-06-11 17:49:21 - INFO - 正在创建标签 '0.0.7-beta13'...
+2025-06-11 17:49:21 - INFO - 正在创建标签 '0.0.7-beta13'...
+2025-06-11 17:49:21 - INFO - 正在创建标签 '0.0.7-beta13'...
+2025-06-11 17:49:21 - INFO - 正在创建标签 '0.0.7-beta13'...
+2025-06-11 17:49:21 - INFO - 正在创建标签 '0.0.7-beta13'...
+2025-06-11 17:49:21 - INFO - 正在创建标签 '0.0.7-beta13'...
+2025-06-11 17:49:21 - INFO - 标签 '0.0.7-beta13' 创建成功
+2025-06-11 17:49:21 - INFO - 标签 '0.0.7-beta13' 创建成功
+2025-06-11 17:49:21 - INFO - 标签 '0.0.7-beta13' 创建成功
+2025-06-11 17:49:21 - INFO - 标签 '0.0.7-beta13' 创建成功
+2025-06-11 17:49:21 - INFO - 标签 '0.0.7-beta13' 创建成功
+2025-06-11 17:49:21 - INFO - 标签 '0.0.7-beta13' 创建成功
+2025-06-11 17:49:21 - INFO - 正在将标签 '0.0.7-beta13' 推送到远程仓库 'origin'...
+2025-06-11 17:49:21 - INFO - 正在将标签 '0.0.7-beta13' 推送到远程仓库 'origin'...
+2025-06-11 17:49:21 - INFO - 正在将标签 '0.0.7-beta13' 推送到远程仓库 'origin'...
+2025-06-11 17:49:21 - INFO - 正在将标签 '0.0.7-beta13' 推送到远程仓库 'origin'...
+2025-06-11 17:49:21 - INFO - 正在将标签 '0.0.7-beta13' 推送到远程仓库 'origin'...
+2025-06-11 17:49:21 - INFO - 正在将标签 '0.0.7-beta13' 推送到远程仓库 'origin'...
+2025-06-11 17:49:24 - INFO - 标签 '0.0.7-beta13' 已成功推送到远程仓库 'origin'
+2025-06-11 17:49:24 - INFO - 标签 '0.0.7-beta13' 已成功推送到远程仓库 'origin'
+2025-06-11 17:49:24 - INFO - 标签 '0.0.7-beta13' 已成功推送到远程仓库 'origin'
+2025-06-11 17:49:24 - INFO - 标签 '0.0.7-beta13' 已成功推送到远程仓库 'origin'
+2025-06-11 17:49:24 - INFO - 标签 '0.0.7-beta13' 已成功推送到远程仓库 'origin'
+2025-06-11 17:49:24 - INFO - 标签 '0.0.7-beta13' 已成功推送到远程仓库 'origin'
+2025-06-11 17:49:24 - INFO - Git 标签设置成功，开始验证 podspec 文件...
+2025-06-11 17:49:24 - INFO - Git 标签设置成功，开始验证 podspec 文件...
+2025-06-11 17:49:24 - INFO - Git 标签设置成功，开始验证 podspec 文件...
+2025-06-11 17:49:24 - INFO - Git 标签设置成功，开始验证 podspec 文件...
+2025-06-11 17:49:24 - INFO - Git 标签设置成功，开始验证 podspec 文件...
+2025-06-11 17:49:24 - INFO - Git 标签设置成功，开始验证 podspec 文件...
+2025-06-11 17:49:24 - INFO - Running command: pod spec lint YDemoLib.podspec --allow-warnings --skip-import-validation
+2025-06-11 17:49:24 - INFO - Running command: pod spec lint YDemoLib.podspec --allow-warnings --skip-import-validation
+2025-06-11 17:49:24 - INFO - Running command: pod spec lint YDemoLib.podspec --allow-warnings --skip-import-validation
+2025-06-11 17:49:24 - INFO - Running command: pod spec lint YDemoLib.podspec --allow-warnings --skip-import-validation
+2025-06-11 17:49:24 - INFO - Running command: pod spec lint YDemoLib.podspec --allow-warnings --skip-import-validation
+2025-06-11 17:49:24 - INFO - Running command: pod spec lint YDemoLib.podspec --allow-warnings --skip-import-validation
+2025-06-11 17:49:24 - INFO - Podspec validation passed successfully.
+2025-06-11 17:49:24 - INFO - Podspec validation passed successfully.
+2025-06-11 17:49:24 - INFO - Podspec validation passed successfully.
+2025-06-11 17:49:24 - INFO - Podspec validation passed successfully.
+2025-06-11 17:49:24 - INFO - Podspec validation passed successfully.
+2025-06-11 17:49:24 - INFO - Podspec validation passed successfully.
+2025-06-11 17:49:24 - INFO - Podspec validation passed. Proceeding to push to trunk...
+2025-06-11 17:49:24 - INFO - Podspec validation passed. Proceeding to push to trunk...
+2025-06-11 17:49:24 - INFO - Podspec validation passed. Proceeding to push to trunk...
+2025-06-11 17:49:24 - INFO - Podspec validation passed. Proceeding to push to trunk...
+2025-06-11 17:49:24 - INFO - Podspec validation passed. Proceeding to push to trunk...
+2025-06-11 17:49:24 - INFO - Podspec validation passed. Proceeding to push to trunk...
+2025-06-11 17:49:24 - INFO - 开始执行命令: pod trunk push YDemoLib.podspec --skip-import-validation --allow-warnings
+2025-06-11 17:49:24 - INFO - 开始执行命令: pod trunk push YDemoLib.podspec --skip-import-validation --allow-warnings
+2025-06-11 17:49:24 - INFO - 开始执行命令: pod trunk push YDemoLib.podspec --skip-import-validation --allow-warnings
+2025-06-11 17:49:24 - INFO - 开始执行命令: pod trunk push YDemoLib.podspec --skip-import-validation --allow-warnings
+2025-06-11 17:49:24 - INFO - 开始执行命令: pod trunk push YDemoLib.podspec --skip-import-validation --allow-warnings
+2025-06-11 17:49:24 - INFO - 开始执行命令: pod trunk push YDemoLib.podspec --skip-import-validation --allow-warnings
+2025-06-11 17:49:26 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:26 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:26 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:26 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:26 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:26 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:26 - INFO - Validating podspec
+2025-06-11 17:49:26 - INFO - Validating podspec
+2025-06-11 17:49:26 - INFO - Validating podspec
+2025-06-11 17:49:26 - INFO - Validating podspec
+2025-06-11 17:49:26 - INFO - Validating podspec
+2025-06-11 17:49:26 - INFO - Validating podspec
+2025-06-11 17:49:40 - INFO - -> YDemoLib
+2025-06-11 17:49:40 - INFO - -> YDemoLib
+2025-06-11 17:49:40 - INFO - -> YDemoLib
+2025-06-11 17:49:40 - INFO - -> YDemoLib
+2025-06-11 17:49:40 - INFO - -> YDemoLib
+2025-06-11 17:49:40 - INFO - -> YDemoLib
+2025-06-11 17:49:40 - INFO - -> YDemoLib (0.0.7-beta13)
+2025-06-11 17:49:40 - INFO - -> YDemoLib (0.0.7-beta13)
+2025-06-11 17:49:40 - INFO - -> YDemoLib (0.0.7-beta13)
+2025-06-11 17:49:40 - INFO - -> YDemoLib (0.0.7-beta13)
+2025-06-11 17:49:40 - INFO - -> YDemoLib (0.0.7-beta13)
+2025-06-11 17:49:40 - INFO - -> YDemoLib (0.0.7-beta13)
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:40 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:40 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:40 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:40 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:40 - INFO - Updating spec repo `trunk`
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - 🎉  Congrats
+2025-06-11 17:49:40 - INFO - 🎉  Congrats
+2025-06-11 17:49:40 - INFO - 🎉  Congrats
+2025-06-11 17:49:40 - INFO - 🎉  Congrats
+2025-06-11 17:49:40 - INFO - 🎉  Congrats
+2025-06-11 17:49:40 - INFO - 🎉  Congrats
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 
+2025-06-11 17:49:40 - INFO - 🚀  YDemoLib (0.0.7-beta13) successfully published
+2025-06-11 17:49:40 - INFO - 🚀  YDemoLib (0.0.7-beta13) successfully published
+2025-06-11 17:49:40 - INFO - 🚀  YDemoLib (0.0.7-beta13) successfully published
+2025-06-11 17:49:40 - INFO - 🚀  YDemoLib (0.0.7-beta13) successfully published
+2025-06-11 17:49:40 - INFO - 🚀  YDemoLib (0.0.7-beta13) successfully published
+2025-06-11 17:49:40 - INFO - 🚀  YDemoLib (0.0.7-beta13) successfully published
+2025-06-11 17:49:40 - INFO - 📅  June 11th, 03:49
+2025-06-11 17:49:40 - INFO - 📅  June 11th, 03:49
+2025-06-11 17:49:40 - INFO - 📅  June 11th, 03:49
+2025-06-11 17:49:40 - INFO - 📅  June 11th, 03:49
+2025-06-11 17:49:40 - INFO - 📅  June 11th, 03:49
+2025-06-11 17:49:40 - INFO - 📅  June 11th, 03:49
+2025-06-11 17:49:40 - INFO - 🌎  https://cocoapods.org/pods/YDemoLib
+2025-06-11 17:49:40 - INFO - 🌎  https://cocoapods.org/pods/YDemoLib
+2025-06-11 17:49:40 - INFO - 🌎  https://cocoapods.org/pods/YDemoLib
+2025-06-11 17:49:40 - INFO - 🌎  https://cocoapods.org/pods/YDemoLib
+2025-06-11 17:49:40 - INFO - 🌎  https://cocoapods.org/pods/YDemoLib
+2025-06-11 17:49:40 - INFO - 🌎  https://cocoapods.org/pods/YDemoLib
+2025-06-11 17:49:40 - INFO - 👍  Tell your friends!
+2025-06-11 17:49:40 - INFO - 👍  Tell your friends!
+2025-06-11 17:49:40 - INFO - 👍  Tell your friends!
+2025-06-11 17:49:40 - INFO - 👍  Tell your friends!
+2025-06-11 17:49:40 - INFO - 👍  Tell your friends!
+2025-06-11 17:49:40 - INFO - 👍  Tell your friends!
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - INFO - --------------------------------------------------------------------------------
+2025-06-11 17:49:40 - ERROR - 
+2025-06-11 17:49:40 - ERROR - 
+2025-06-11 17:49:40 - ERROR - 
+2025-06-11 17:49:40 - ERROR - 
+2025-06-11 17:49:40 - ERROR - 
+2025-06-11 17:49:40 - ERROR - 
+2025-06-11 17:49:40 - ERROR - [!] Skipping compilation with `xcodebuild` because target contains no sources.
+2025-06-11 17:49:40 - ERROR - [!] Skipping compilation with `xcodebuild` because target contains no sources.
+2025-06-11 17:49:40 - ERROR - [!] Skipping compilation with `xcodebuild` because target contains no sources.
+2025-06-11 17:49:40 - ERROR - [!] Skipping compilation with `xcodebuild` because target contains no sources.
+2025-06-11 17:49:40 - ERROR - [!] Skipping compilation with `xcodebuild` because target contains no sources.
+2025-06-11 17:49:40 - ERROR - [!] Skipping compilation with `xcodebuild` because target contains no sources.
+2025-06-11 17:49:40 - INFO - 命令执行成功
+2025-06-11 17:49:40 - INFO - 命令执行成功
+2025-06-11 17:49:40 - INFO - 命令执行成功
+2025-06-11 17:49:40 - INFO - 命令执行成功
+2025-06-11 17:49:40 - INFO - 命令执行成功
+2025-06-11 17:49:40 - INFO - 命令执行成功
+2025-06-11 17:49:40 - INFO - 命令执行完成，耗时: 15.46秒
+2025-06-11 17:49:40 - INFO - 命令执行完成，耗时: 15.46秒
+2025-06-11 17:49:40 - INFO - 命令执行完成，耗时: 15.46秒
+2025-06-11 17:49:40 - INFO - 命令执行完成，耗时: 15.46秒
+2025-06-11 17:49:40 - INFO - 命令执行完成，耗时: 15.46秒
+2025-06-11 17:49:40 - INFO - 命令执行完成，耗时: 15.46秒
+2025-06-11 17:49:40 - INFO - Podspec pushed successfully.
+2025-06-11 17:49:40 - INFO - Podspec pushed successfully.
+2025-06-11 17:49:40 - INFO - Podspec pushed successfully.
+2025-06-11 17:49:40 - INFO - Podspec pushed successfully.
+2025-06-11 17:49:40 - INFO - Podspec pushed successfully.
+2025-06-11 17:49:40 - INFO - Podspec pushed successfully.
+2025-06-11 17:49:40 - INFO - Podspec 推送成功，所有操作完成。
+2025-06-11 17:49:40 - INFO - Podspec 推送成功，所有操作完成。
+2025-06-11 17:49:40 - INFO - Podspec 推送成功，所有操作完成。
+2025-06-11 17:49:40 - INFO - Podspec 推送成功，所有操作完成。
+2025-06-11 17:49:40 - INFO - Podspec 推送成功，所有操作完成。
+2025-06-11 17:49:40 - INFO - Podspec 推送成功，所有操作完成。
+2025-06-11 17:49:40 - INFO - 所有操作已成功完成。
+2025-06-11 17:49:40 - INFO - 所有操作已成功完成。
+2025-06-11 17:49:40 - INFO - 所有操作已成功完成。
+2025-06-11 17:49:40 - INFO - 所有操作已成功完成。
+2025-06-11 17:49:40 - INFO - 所有操作已成功完成。
+2025-06-11 17:49:40 - INFO - 所有操作已成功完成。
