@@ -1,0 +1,11 @@
+2025-06-11 17:40:39 - INFO - 开始执行命令: pod trunk push YDemoLib.podspec --skip-import-validation --allow-warnings
+2025-06-11 17:40:41 - INFO - Updating spec repo `trunk`
+2025-06-11 17:40:41 - INFO - Validating podspec
+2025-06-11 17:40:44 - INFO - -> YDemoLib
+2025-06-11 17:40:44 - INFO - -> YDemoLib (0.0.7-beta12)
+2025-06-11 17:40:44 - INFO - 
+2025-06-11 17:40:44 - INFO - [!] Unable to accept duplicate entry for: YDemoLib (0.0.7-beta12)
+2025-06-11 17:40:44 - ERROR - 
+2025-06-11 17:40:44 - ERROR - [!] Skipping compilation with `xcodebuild` because target contains no sources.
+2025-06-11 17:40:44 - ERROR - 命令执行失败，返回码: 1
+2025-06-11 17:40:44 - INFO - 命令执行完成，耗时: 4.21秒

@@ -1,0 +1,150 @@
+2025-06-11 17:48:59 - INFO - 开始导出框架，版本号: 0.0.7-beta13...
+2025-06-11 17:48:59 - INFO - 开始导出框架，版本号: 0.0.7-beta13...
+2025-06-11 17:48:59 - INFO - 开始导出框架，版本号: 0.0.7-beta13...
+2025-06-11 17:48:59 - INFO - 开始导出框架，版本号: 0.0.7-beta13...
+2025-06-11 17:48:59 - INFO - 开始导出框架，版本号: 0.0.7-beta13...
+2025-06-11 17:48:59 - INFO - 开始导出框架，版本号: 0.0.7-beta13...
+2025-06-11 17:48:59 - INFO - /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor
+
+2025-06-11 17:48:59 - INFO - /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor
+
+2025-06-11 17:48:59 - INFO - /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor
+
+2025-06-11 17:48:59 - INFO - /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor
+
+2025-06-11 17:48:59 - INFO - /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor
+
+2025-06-11 17:48:59 - INFO - /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor
+
+2025-06-11 17:48:59 - INFO - xcodebuild -configuration Release -target YoSDKCoreKit  -target YoSDKFBKit -target YoSDKIAPKit -target YoSDKSignInAppleKit -target YoSDKAiHelpKit -target YoSDKAdjustKit -target YoSDKResources -sdk iphoneos clean build -quiet
+2025-06-11 17:48:59 - INFO - xcodebuild -configuration Release -target YoSDKCoreKit  -target YoSDKFBKit -target YoSDKIAPKit -target YoSDKSignInAppleKit -target YoSDKAiHelpKit -target YoSDKAdjustKit -target YoSDKResources -sdk iphoneos clean build -quiet
+2025-06-11 17:48:59 - INFO - xcodebuild -configuration Release -target YoSDKCoreKit  -target YoSDKFBKit -target YoSDKIAPKit -target YoSDKSignInAppleKit -target YoSDKAiHelpKit -target YoSDKAdjustKit -target YoSDKResources -sdk iphoneos clean build -quiet
+2025-06-11 17:48:59 - INFO - xcodebuild -configuration Release -target YoSDKCoreKit  -target YoSDKFBKit -target YoSDKIAPKit -target YoSDKSignInAppleKit -target YoSDKAiHelpKit -target YoSDKAdjustKit -target YoSDKResources -sdk iphoneos clean build -quiet
+2025-06-11 17:48:59 - INFO - xcodebuild -configuration Release -target YoSDKCoreKit  -target YoSDKFBKit -target YoSDKIAPKit -target YoSDKSignInAppleKit -target YoSDKAiHelpKit -target YoSDKAdjustKit -target YoSDKResources -sdk iphoneos clean build -quiet
+2025-06-11 17:48:59 - INFO - xcodebuild -configuration Release -target YoSDKCoreKit  -target YoSDKFBKit -target YoSDKIAPKit -target YoSDKSignInAppleKit -target YoSDKAiHelpKit -target YoSDKAdjustKit -target YoSDKResources -sdk iphoneos clean build -quiet
+2025-06-11 17:49:18 - INFO - 编译完成
+2025-06-11 17:49:18 - INFO - 编译完成
+2025-06-11 17:49:18 - INFO - 编译完成
+2025-06-11 17:49:18 - INFO - 编译完成
+2025-06-11 17:49:18 - INFO - 编译完成
+2025-06-11 17:49:18 - INFO - 编译完成
+2025-06-11 17:49:18 - INFO - Copying frameworks from /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor/build/Release-iphoneos to /Users/huxiaohui/Documents/cocoapods/YDemoLib/Lib
+2025-06-11 17:49:18 - INFO - Copying frameworks from /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor/build/Release-iphoneos to /Users/huxiaohui/Documents/cocoapods/YDemoLib/Lib
+2025-06-11 17:49:18 - INFO - Copying frameworks from /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor/build/Release-iphoneos to /Users/huxiaohui/Documents/cocoapods/YDemoLib/Lib
+2025-06-11 17:49:18 - INFO - Copying frameworks from /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor/build/Release-iphoneos to /Users/huxiaohui/Documents/cocoapods/YDemoLib/Lib
+2025-06-11 17:49:18 - INFO - Copying frameworks from /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor/build/Release-iphoneos to /Users/huxiaohui/Documents/cocoapods/YDemoLib/Lib
+2025-06-11 17:49:18 - INFO - Copying frameworks from /Users/huxiaohui/Documents/YostarWork/Git/YostarSDK/yostar_sdk_ios_refactor/build/Release-iphoneos to /Users/huxiaohui/Documents/cocoapods/YDemoLib/Lib
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAiHelpKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAiHelpKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAiHelpKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAiHelpKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAiHelpKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAiHelpKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKResources.bundle 的扩展名是: .bundle
+2025-06-11 17:49:18 - INFO - 文件 YoSDKResources.bundle 的扩展名是: .bundle
+2025-06-11 17:49:18 - INFO - 文件 YoSDKResources.bundle 的扩展名是: .bundle
+2025-06-11 17:49:18 - INFO - 文件 YoSDKResources.bundle 的扩展名是: .bundle
+2025-06-11 17:49:18 - INFO - 文件 YoSDKResources.bundle 的扩展名是: .bundle
+2025-06-11 17:49:18 - INFO - 文件 YoSDKResources.bundle 的扩展名是: .bundle
+2025-06-11 17:49:18 - INFO - 文件 YoSDKIAPKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKIAPKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKIAPKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKIAPKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKIAPKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKIAPKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAdjustKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAdjustKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAdjustKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAdjustKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAdjustKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKAdjustKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKCoreKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKCoreKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKCoreKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKCoreKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKCoreKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKCoreKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKSignInAppleKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKSignInAppleKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKSignInAppleKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKSignInAppleKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKSignInAppleKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKSignInAppleKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKFBKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKFBKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKFBKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKFBKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKFBKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 文件 YoSDKFBKit.framework 的扩展名是: .framework
+2025-06-11 17:49:18 - INFO - 框架导出成功，开始更新 podspec 文件...
+2025-06-11 17:49:18 - INFO - 框架导出成功，开始更新 podspec 文件...
+2025-06-11 17:49:18 - INFO - 框架导出成功，开始更新 podspec 文件...
+2025-06-11 17:49:18 - INFO - 框架导出成功，开始更新 podspec 文件...
+2025-06-11 17:49:18 - INFO - 框架导出成功，开始更新 podspec 文件...
+2025-06-11 17:49:18 - INFO - 框架导出成功，开始更新 podspec 文件...
+2025-06-11 17:49:18 - INFO - 当前工作目录：/Users/huxiaohui/Documents/cocoapods/YDemoLib
+
+2025-06-11 17:49:18 - INFO - 当前工作目录：/Users/huxiaohui/Documents/cocoapods/YDemoLib
+
+2025-06-11 17:49:18 - INFO - 当前工作目录：/Users/huxiaohui/Documents/cocoapods/YDemoLib
+
+2025-06-11 17:49:18 - INFO - 当前工作目录：/Users/huxiaohui/Documents/cocoapods/YDemoLib
+
+2025-06-11 17:49:18 - INFO - 当前工作目录：/Users/huxiaohui/Documents/cocoapods/YDemoLib
+
+2025-06-11 17:49:18 - INFO - 当前工作目录：/Users/huxiaohui/Documents/cocoapods/YDemoLib
+
+2025-06-11 17:49:18 - INFO - 成功: 版本号已更新为 '0.0.7-beta13'
+2025-06-11 17:49:18 - INFO - 成功: 版本号已更新为 '0.0.7-beta13'
+2025-06-11 17:49:18 - INFO - 成功: 版本号已更新为 '0.0.7-beta13'
+2025-06-11 17:49:18 - INFO - 成功: 版本号已更新为 '0.0.7-beta13'
+2025-06-11 17:49:18 - INFO - 成功: 版本号已更新为 '0.0.7-beta13'
+2025-06-11 17:49:18 - INFO - 成功: 版本号已更新为 '0.0.7-beta13'
+2025-06-11 17:49:18 - INFO - Podspec 文件更新成功，开始提交到 Git...
+2025-06-11 17:49:18 - INFO - Podspec 文件更新成功，开始提交到 Git...
+2025-06-11 17:49:18 - INFO - Podspec 文件更新成功，开始提交到 Git...
+2025-06-11 17:49:18 - INFO - Podspec 文件更新成功，开始提交到 Git...
+2025-06-11 17:49:18 - INFO - Podspec 文件更新成功，开始提交到 Git...
+2025-06-11 17:49:18 - INFO - Podspec 文件更新成功，开始提交到 Git...
+2025-06-11 17:49:19 - INFO - 检测到以下更改:
+2025-06-11 17:49:19 - INFO - 检测到以下更改:
+2025-06-11 17:49:19 - INFO - 检测到以下更改:
+2025-06-11 17:49:19 - INFO - 检测到以下更改:
+2025-06-11 17:49:19 - INFO - 检测到以下更改:
+2025-06-11 17:49:19 - INFO - 检测到以下更改:
+2025-06-11 17:49:19 - INFO - M Lib/YoSDKResources.bundle/_CodeSignature/CodeSignature
+ M YDemoLib.podspec
+?? log/pod_push_20250611_173848.log
+?? log/pod_push_20250611_174039.log
+?? script/
+2025-06-11 17:49:19 - INFO - M Lib/YoSDKResources.bundle/_CodeSignature/CodeSignature
+ M YDemoLib.podspec
+?? log/pod_push_20250611_173848.log
+?? log/pod_push_20250611_174039.log
+?? script/
+2025-06-11 17:49:19 - INFO - M Lib/YoSDKResources.bundle/_CodeSignature/CodeSignature
+ M YDemoLib.podspec
+?? log/pod_push_20250611_173848.log
+?? log/pod_push_20250611_174039.log
+?? script/
+2025-06-11 17:49:19 - INFO - M Lib/YoSDKResources.bundle/_CodeSignature/CodeSignature
+ M YDemoLib.podspec
+?? log/pod_push_20250611_173848.log
+?? log/pod_push_20250611_174039.log
+?? script/
+2025-06-11 17:49:19 - INFO - M Lib/YoSDKResources.bundle/_CodeSignature/CodeSignature
+ M YDemoLib.podspec
+?? log/pod_push_20250611_173848.log
+?? log/pod_push_20250611_174039.log
+?? script/
+2025-06-11 17:49:19 - INFO - M Lib/YoSDKResources.bundle/_CodeSignature/CodeSignature
+ M YDemoLib.podspec
+?? log/pod_push_20250611_173848.log
+?? log/pod_push_20250611_174039.log
+?? script/
+2025-06-11 17:49:19 - INFO - 正在暂存所有更改...
+2025-06-11 17:49:19 - INFO - 正在暂存所有更改...
+2025-06-11 17:49:19 - INFO - 正在暂存所有更改...
+2025-06-11 17:49:19 - INFO - 正在暂存所有更改...
+2025-06-11 17:49:19 - INFO - 正在暂存所有更改...
+2025-06-11 17:49:19 - INFO - 正在暂存所有更改...
